@@ -1,0 +1,21 @@
+{
+  "name": "lojinha-controles",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lojinha de controles de videogame didática com Node.js e React",
+  "scripts": {
+    "dev:backend": "cd backend && npm start",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "react",
+    "vite",
+    "didatico",
+    "ecommerce"
+  ],
+  "author": "João Finoti",
+  "license": "MIT"
+}
