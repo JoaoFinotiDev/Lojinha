@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "DualSense Wireless Controller",
+    "platform": "PlayStation 5",
+    "brand": "Sony",
+    "color": "Branco e Preto",
+    "connection": "Bluetooth / USB-C",
+    "price": 429.90,
+    "stock": 15,
+    "description": "Controle oficial do PS5 com feedback tátil imersivo, gatilhos adaptáveis dinâmicos e microfone embutido.",
+    "imageUrl": "https://images.unsplash.com/photo-1606318801954-d46d46d3360a?w=600&auto=format&fit=crop&q=80",
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "name": "Xbox Wireless Controller - Robot White",
+    "platform": "Xbox / PC",
+    "brand": "Microsoft",
+    "color": "Branco",
+    "connection": "Xbox Wireless / Bluetooth / USB-C",
+    "price": 399.00,
+    "stock": 12,
+    "description": "Experimente o design modernizado do Controle Sem Fio Xbox com superfícies esculpidas e geometria refinada.",
+    "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&auto=format&fit=crop&q=80",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Nintendo Switch Pro Controller",
+    "platform": "Nintendo Switch",
+    "brand": "Nintendo",
+    "color": "Preto Translúcido",
+    "connection": "Bluetooth / USB-C",
+    "price": 389.90,
+    "stock": 8,
+    "description": "Controle ergonômico premium para Nintendo Switch com HD Rumble, giroscópio e sensor NFC para amiibo.",
+    "imageUrl": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=600&auto=format&fit=crop&q=80",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "8BitDo Ultimate Wireless Controller com Dock",
+    "platform": "PC / Switch / Android",
+    "brand": "8BitDo",
+    "color": "Preto",
+    "connection": "2.4GHz / Bluetooth / USB-C",
+    "price": 329.00,
+    "stock": 20,
+    "description": "Controle de alta precisão com analógicos Hall Effect antidesvio, botões traseiros mapeáveis e base de carregamento inclusa.",
+    "imageUrl": "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?w=600&auto=format&fit=crop&q=80",
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "name": "Xbox Elite Wireless Controller Series 2",
+    "platform": "Xbox / PC",
+    "brand": "Microsoft",
+    "color": "Preto / Emborrachado",
+    "connection": "Xbox Wireless / Bluetooth / USB-C",
+    "price": 1099.90,
+    "stock": 5,
+    "description": "O controle definitivo para jogadores competitivos: analógicos de tensão ajustável, travas de gatilho curtas e paddles traseiros.",
+    "imageUrl": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=600&auto=format&fit=crop&q=80",
+    "rating": 4.9
+  },
+  {
+    "id": 6,
+    "name": "Controle Retrô USB Clássico SNES",
+    "platform": "PC / Mac / Raspberry Pi",
+    "brand": "RetroArcade",
+    "color": "Cinza Clássico",
+    "connection": "Cabo USB de 1.8m",
+    "price": 59.90,
+    "stock": 35,
+    "description": "Reviva a era de ouro dos 16 bits! Réplica perfeita e plug-and-play para emuladores e jogos retrô.",
+    "imageUrl": "https://images.unsplash.com/photo-1526509867162-5b0c0d1b4b33?w=600&auto=format&fit=crop&q=80",
+    "rating": 4.6
+  }
+]
